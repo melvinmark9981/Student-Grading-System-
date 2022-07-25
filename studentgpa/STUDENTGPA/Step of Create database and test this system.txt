@@ -1,6 +1,6 @@
 Download all the files to a folder in C:\xampp\htdocs\
 Open xampp phpadmin
-Create a database call gpa_system in phpmyadmin
+Create a database call gpa_system
 Import all three .csv file
 Open localhost/(foldername)
 Run the php file
