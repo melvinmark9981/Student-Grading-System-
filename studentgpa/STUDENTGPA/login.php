@@ -44,7 +44,7 @@ if (isset($_POST['login'])) {
                     <div class="form-group ">
                         <label>Student ID</label>
                         <input type="number" name="Stu_ID" class="form-control" value="" maxlength="30" required="">
-                        <p>TIPS: INSERT '220001' and others.</p>
+                        <p>TIPS: Insert ID within 220001 and 220003.</p>
                     </div>
                     
                     <input type="submit" class="btn btn-primary" name="login" value="login">
