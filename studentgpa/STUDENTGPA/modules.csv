@@ -1,16 +1,71 @@
-﻿Module_Code,Module_Name,Credit_Value
-BDS12012,Critical Thinking,2
-BDS12023,Linear Algebra,3
-BDS11013,Computer System Fundamentals,3
-BAI12023,Discrete Mathematics,3
-BAI12043,Neural Network Basics,3
-BUS11033,Business Statistics,3
-BAI11013,Introduction to Computational Thinking,3
-BAI11023,OOP with Python 1,3
-BAI11033,Databases,3
-BAI11043,Operating Systems and Computer Networks,3
-MPU3113/ MPU3173,U1: Hubungan Etnik/Malaysia Studies 3,3
-BAI21033,Artificial Intelligence Methods,3
-BDS21013,Data Processing Techniques,3
-MPU3223/  MPU3213,U2: Creative Thinking/Bahasa Kebangsaan A,3
-BAI21043,OOP with Python 2,3
+﻿Module Code,Module Name,Credit Value,,,,,,
+BDS12012,Critical Thinking,2,,,,,,
+ BDS12023,Linear Algebra,3,,,,,,
+BDS11013,Computer System Fundamentals,3,,,,,,
+BAI12023,Discrete Mathematics,3,,,,,,
+BAI12043,Neural Network Basics,3,,,,,,
+BUS11033,Business Statistics,3,,,,,,
+BAI11013,Introduction to Computational Thinking,3,,,,,,
+BAI11023,OOP with Python 1,3,,,,,,
+BAI11033,Databases,3,,,,,,
+BAI11043,Operating Systems and Computer Networks,3,,,,,,
+MPU3143,U1: Penghayatan Etika dan Peradaban ,3,,,,,,
+BAI21033,Artificial Intelligence Methods,3,,,,,,
+BDS21013,Data Processing Techniques,3,,,,,,
+MPU3223,U2: Creative Thinking,3,,,,,,
+BAI21043,OOP with Python 2,3,,,,,,
+MPU3412,U4: Community Service,2,,,,,,
+BAI13013,Neural Networks for Machine Learning,3,,,,,,
+BAI12013,Algorithms,3,,,,,,
+BAI13033,Data Analysis,3,,,,,,
+BAI13023,Software Specification & Modelling,3,,,,,,
+BDS23013,Bayesian Statistics and Experimental Design,3,,,,,,
+BAI23023,Data Visualisation,3,,,,,,
+BAI31033,Knowledge Representation,3,,,,,,
+BDS23023,Time Series Analysis & Forecasting,3,,,,,,
+TBC,"U1: 2.	Falsafah dan Isu Semasa",3,,,,,,
+MPU3313,U3: Malaysian Innovation,3,,,,,,
+BAI23033,Natural Language Processing,3,,,,,,
+ADE 22014,UI/UX Design,4,,,,,,
+BDS21023,Stochastic Analysis,3,,,,,,
+BDS31013,Project I,3,,,,,,
+BAI32022,Ethics and IT,2,,,,,,
+BDS32023,Python 3 - Advanced Data Analysis,3,,,,,,
+BDS32034,Business Analytics,4,,,,,,
+BIT32042,Blockchain & Its Applications,2,,,,,,
+BDS32013,Project II,3,,,,,,
+BAI13053,Distributed Databases,3,,,,,,
+BDS31024,Cloud Computing,4,,,,,,
+BBA32144,Entrepreneurship and New Business Development,4,,,,,,
+BDS33016,Professional Attachment,6,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
