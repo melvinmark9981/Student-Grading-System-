@@ -15,7 +15,7 @@ if (isset($_POST['login'])) {
         if ($row = mysqli_fetch_array($result)) {
             $_SESSION['Student_ID'] = $row['Student_ID'];
             $_SESSION['Student_Name'] = $row['Student_Name'];
-            $_SESSION['Student_Course'] = $row['Student_Course'];
+            $_SESSION['Student_Course'] = $row['Course_Code'];
             header("Location: index.php");
         } 
     }else {
